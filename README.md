@@ -1,4 +1,4 @@
-[![MasterHead](https://rishavchanda.io)](https://rishavchanda.io)
+![MasterHead](https://iili.io/HA9dWps.png)
 
 <h1 align="center">Hi 👋, I'm Md. Sadiq Ibn Mas-Ud</h1>
 <h3 align="center">A passionate Web Developer</h3>
