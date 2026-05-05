@@ -105,9 +105,7 @@ A full-stack course marketplace where students enroll in culinary courses and in
 
 <div align="center">
 
-![Sadiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiq1020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiq1020&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Sadiq's GitHub Stats](https://gh-stats-api.vercel.app/api?username=sadiq1020&show_icons=true&theme=tokyonight&hide_border=true)
 
 <br/>
 
