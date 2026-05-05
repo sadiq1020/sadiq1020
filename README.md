@@ -1,5 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  BANNER: Replace the image below with your own (recommended 1280×320px) -->
+<!--  BANNER: Upload your PNG (1280×320px) to this repo, then replace the  -->
+<!--  URL below with the raw file link. Example:                            -->
+<!--  https://raw.githubusercontent.com/sadiq1020/sadiq1020/main/banner.png -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ![Banner](https://iili.io/HA9dWps.png)
 
@@ -13,7 +15,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════ SOCIAL BADGES ════════════════════════ -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-v2-dun.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-ibn-masud/)
 [![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sadiq_ibn_masud)
@@ -29,18 +30,16 @@
 
 ---
 
-<!-- ═══════════════════════════════════ GIF ══════════════════════════════ -->
-<!-- This preserves your original animated coding GIF                      -->
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## 🧑‍💻 About Me
 
-- 🔭 &nbsp;Currently building **PH Next Level Healthcare — a full-stack healthcare management system** with Next.js & TypeScript
+- 🔭 &nbsp;Currently working with **Next.js, TypeScript, Node.js, PostgreSQL, and AI integrations** for full-stack development
 - 🌱 &nbsp;Learning **Docker** — containerizing apps one layer at a time
 - 💬 &nbsp;Ask me about **Next.js, TypeScript, Node.js, Express, PostgreSQL, and React**
 - 📫 &nbsp;Reach me at **sadiqibnmasud@gmail.com**
 - 📄 &nbsp;Check out my [Portfolio](https://my-portfolio-v2-dun.vercel.app/) for projects and experience
-- ⚡ &nbsp;Fun fact: I debug backend APIs in the morning and obsess over UI animations at night
+- ⚡ &nbsp;Fun fact: I do my best coding late at night — when everything is quiet and I can actually think
 
 <br clear="right"/>
 
@@ -86,19 +85,19 @@
 
 ## 🚀 Featured Projects
 
+### 🍔 [FoodHub V2](https://foodhub-frontend-v2.vercel.app) — Multi-Role Food Delivery Platform
+A complete food delivery app with 3 user roles, Stripe payments, AI chatbot, and email notifications.
+- **Stack:** Next.js 15, Express, Prisma, PostgreSQL, Stripe, Cloudinary, Gemini AI, TanStack Query
+- **Features:** OTP email verification, Google OAuth, AI meal recommendations, Stripe checkout + webhooks, animated landing page, auto-cancel cron job
+- 🔗 [Frontend](https://github.com/sadiq1020/Foodhub-Frontend-V2) · [Backend](https://github.com/sadiq1020/Foodhub-Backend-V2)
+
+---
+
 ### 🍳 [KitchenClass](https://kitchenclass-frontend.vercel.app) — Cooking Course Marketplace
 A full-stack course marketplace where students enroll in culinary courses and instructors publish content.
 - **Stack:** Next.js 15, TypeScript, Tailwind CSS, Better Auth, Prisma, PostgreSQL, Zustand
 - **Features:** Google OAuth, role-based dashboards (Admin / Instructor / Student), analytics charts, instructor approval flow
 - 🔗 [Frontend](https://github.com/sadiq1020/kitchenclass-frontend) · [Backend](https://github.com/sadiq1020/kitchenclass-backend)
-
----
-
-### 🍔 [FoodHub V2](https://foodhub-frontend-v2.vercel.app) — Multi-Role Food Delivery Platform
-A complete food delivery app with 3 user roles, Stripe payments, AI chatbot, and email notifications.
-- **Stack:** Next.js 15, Express, Prisma, PostgreSQL, Stripe, Cloudinary, Gemini AI, TanStack Query
-- **Features:** OTP email verification, Google OAuth, AI meal recommendations, Stripe checkout + webhooks, auto-cancel cron job
-- 🔗 [Frontend](https://github.com/sadiq1020/Foodhub-Frontend-V2) · [Backend](https://github.com/sadiq1020/Foodhub-Backend-V2)
 
 ---
 
@@ -108,7 +107,7 @@ A complete food delivery app with 3 user roles, Stripe payments, AI chatbot, and
 
 | GitHub Stats | Top Languages |
 |:---:|:---:|
-| ![Sadiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiq1020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiq1020&layout=compact&theme=tokyonight&hide_border=true) |
+| ![Sadiq's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadiq1020&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadiq1020&layout=compact&theme=tokyonight&hide_border=true) |
 
 <br/>
 
