@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Hi there, I'm Md. Sadiq Ibn Mas-Ud 👋
+# Hi there, I'm Md. Sadiq Ibn Masud 👋
 
 ### Full-Stack Web Developer
 
