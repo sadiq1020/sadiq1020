@@ -3,7 +3,7 @@
 <!--  URL below with the raw file link. Example:                            -->
 <!--  https://raw.githubusercontent.com/sadiq1020/sadiq1020/main/banner.png -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-![Banner]([https://iili.io/HA9dWps.png](https://raw.githubusercontent.com/sadiq1020/sadiq1020/main/banner.png))
+![Banner](https://raw.githubusercontent.com/sadiq1020/sadiq1020/main/banner.png)
 
 <div align="center">
 
